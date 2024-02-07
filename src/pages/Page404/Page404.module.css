@@ -1,0 +1,20 @@
+.titulo{
+    padding-top: 2rem;
+}
+
+.textos {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.texto_grande, .texto_azul{
+    font-size: 300px;
+    color: var(--terceary);
+    font-weight: bold;
+}
+
+.texto_azul{
+    font-size: 1.5rem;
+}
